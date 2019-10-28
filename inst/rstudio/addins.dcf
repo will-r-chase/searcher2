@@ -1,0 +1,6 @@
+Name: Google searcher
+Description: Searches google for the highlighted text
+Binding: searcherAddin
+Interactive: false
+Icon: logo.jpg
+
